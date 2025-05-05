@@ -17,10 +17,10 @@ The analysis covers:
 - Impact of weather conditions on traffic volume
 - Summary of key findings
 
-## Project Files
+## Project Notebook
 
-- [View the Jupyter Notebook on GitHub](https://github.com/ROHINI-S17/Traffic-data-analysis/blob/main/project.ipynb)
-- [View the Project Report (PDF)](https://github.com/ROHINI-S17/Traffic-data-analysis/blob/main/project.pdf)
+You can view the Jupyter Notebook here:  
+[Traffic Data Analysis - Jupyter Notebook (nbviewer)](https://nbviewer.org/github/ROHINI-S17/Traffic-data-analysis/blob/main/project%20%285%29.ipynb)
 
 ## Technologies Used
 
