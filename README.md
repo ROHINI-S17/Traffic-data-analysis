@@ -27,9 +27,17 @@ This project uses the following tools and libraries:
 
 ## Key Visualizations
 
-- **Hourly Traffic Trend**: A plot of hourly traffic volume patterns.
-- **Weather vs. Traffic**: A comparison of weather conditions with traffic volume.
-- **Monthly/Seasonal Traffic Volume**: Trends based on months or seasons.
+- **Average Traffic Volume: Weekday vs Weekend**  
+  ![Weekday vs Weekend](https://github.com/ROHINI-S17/Traffic-data-analysis/blob/images/weekday%20vs%20weekend.png?raw=true)
+
+- **Monthly Average Traffic Volume**  
+  ![Monthly Average](https://github.com/ROHINI-S17/Traffic-data-analysis/blob/images/monthly%20average.png?raw=true)
+
+- **Average Traffic Volume by Weather Condition**  
+  ![By Weather](https://github.com/ROHINI-S17/Traffic-data-analysis/blob/images/by%20weather.png?raw=true)
+
+- **Daily Average Traffic Volume Over Time**  
+  ![Over Time](https://github.com/ROHINI-S17/Traffic-data-analysis/blob/images/over%20time.png?raw=true)
 
 ## How to View
 
