@@ -5,7 +5,7 @@ The goal is to extract meaningful insights from real-world traffic data — such
 
 ## Dataset
 
-- Source: [Kaggle - Metro Interstate Traffic Volume](https://www.kaggle.com/datasets/ujjwalchowdhury/metro-interstate-traffic-volume)
+- Source: [Kaggle - Metro Interstate Traffic Volume](https://www.kaggle.com/datasets/pooriamst/metro-interstate-traffic-volume)
 
 ## Project Overview
 
